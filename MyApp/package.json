@@ -1,0 +1,13 @@
+{
+  "name": "com.dev.myapp",
+  "version": "1.0.0",
+  "displayName": "MyApp",
+  "cordova": {
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "cordova-ios": "~4.5.5"
+  }
+}
